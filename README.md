@@ -4,5 +4,5 @@ Scripts e arquivos de dados utilizados durante o curso de redes neurais - GESAI 
 Tópicos abordados:
 - Introdução ao Python
 - Gradiente descendente para regressão linear
-- Introdução ao percetron multicamadas utilizando as bibliotecas TensorFlow e Keras
+- Introdução a rede percetron multicamadas utilizando as bibliotecas TensorFlow e Keras
 - Aplicação do perceptron multicamadas na modelagem da evapotranspiração de referência (ETo)
